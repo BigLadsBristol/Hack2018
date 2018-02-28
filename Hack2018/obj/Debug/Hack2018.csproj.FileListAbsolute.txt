@@ -1,0 +1,11 @@
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\bin\Debug\Hack2018.exe.config
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\bin\Debug\Hack2018.exe
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\bin\Debug\Hack2018.pdb
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\bin\Debug\Newtonsoft.Json.dll
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\bin\Debug\Newtonsoft.Json.xml
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.Form1.resources
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.Properties.Resources.resources
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.csproj.GenerateResource.Cache
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.exe
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Hack2018\Hack2018\obj\Debug\Hack2018.pdb
